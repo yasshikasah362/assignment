@@ -76,18 +76,4 @@ Please make sure to replace the placeholders in these `.env.sample` files with y
    ```bash
    npm run start
 
-## 🤔 How Can It Be Improved?
-While the current version of Taskly is robust and feature-rich, there are several areas for improvement:
-- **Profile Picture**: Allow users to upload and manage a profile picture.
-- **Additional Task Attributes**: Include more detailed attributes like start time, end time, and estimated time for tasks.
-- **Inbuilt Calendar**: Integrate a calendar feature to track tasks and events visually.
-- **Password Reset**: Implement a password reset functionality for enhanced user security.
-- **Notifications**: Add in-app notifications for task updates and deadlines.
-
-## 🐛 Current Bugs
-So far, Taskly performs well on the web and on mobile devices. If you encounter any bugs or issues, please let me know!
-
-## Credits 🙏
-- Favicon by Flaticon
-- Cover picture on Auth page from Dribble
 
