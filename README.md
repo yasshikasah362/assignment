@@ -1,4 +1,4 @@
-# Taskly - a task manager app
+![image](https://github.com/user-attachments/assets/857c1f5d-f4fd-4e61-95fa-38d330d14c8f)# Taskly - a task manager app
 
 **Taskly** is a task manager built with Vite, React, JavaScript, Node.js, Express, MongoDB, and Tailwind CSS. This app is designed for seamless task management, offering a beautiful and intuitive interface that works flawlessly across both web and mobile devices.
 
@@ -37,6 +37,8 @@
 - MongoDB & Mongoose
 - Vite
 - Tailwind CSS
+
+
 
 ## 📝 Process
 
